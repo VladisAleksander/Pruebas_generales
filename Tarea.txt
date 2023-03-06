@@ -1,0 +1,3 @@
+pedir nombre
+letra a cambiar
+letra nueva que va a reemplazar
