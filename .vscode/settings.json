@@ -1,5 +1,8 @@
 {
     "c-cpp-compile-run.run-args": "konsole",
     "c-cpp-compile-run.run-in-external-terminal": true,
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
