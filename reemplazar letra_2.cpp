@@ -9,7 +9,7 @@ int main() {
 
     // Pedir al usuario su nombre
     printf("Ingresa tu nombre: \n");
-    scanf("%s", nombre;
+    scanf("%s", nombre);
 
     // Pedir al usuario la letra a reemplazar y la nueva letra
     cout << "Ingresa la letra que deseas reemplazar: ";
