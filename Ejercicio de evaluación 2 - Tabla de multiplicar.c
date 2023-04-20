@@ -19,13 +19,13 @@ int main() {
     system ("cls"); // Limpiamos la consola
     printf ("*Bienvenido al programa de tabla de multiplicar personalizada*\n\n");
     printf ("Bienvenido, %s\n\n", nombre); // Mensaje de bienvenida
-    printf ("Para crear su matr%cz ingrese los datos solicitados\n\n", 161); 
+    printf ("Para crear su tabla de multiplicar, ingrese los datos solicitados\n\n");
 
     // Solicitamos el número de filas para la matriz
     system ("cls"); // Limpiamos la consola
     printf ("*Bienvenido al programa de tabla de multiplicar personalizada*\n\n");
     printf ("Bienvenido, %s\n\n", nombre);
-    printf ("Para crear su matr%cz ingrese los datos solicitados\n\n", 161);
+    printf ("Para crear su tabla de multiplicar, ingrese los datos solicitados\n\n");
     printf ("Ingrese el n%cmero de filas para la tabla:\n", 163); // Solicitar al usuario el número de filas
     while (scanf("%d", &fila) != 1) { // Verificamos que solo se ingrese un número
         printf ("Error: Debe ingresar un n%cmero entero. Int%cntelo de nuevo.\n", 163, 130); // Mensaje de error
